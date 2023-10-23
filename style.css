@@ -1,0 +1,286 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+/* container */
+.container {
+  margin-bottom: 50px;
+}
+
+
+/* navbar section */
+.main-navbar {
+  margin-top: 25px;
+}
+
+/* navbar icon */
+.navbar-toggler-icon {
+  width: 20px;
+  height: 20px;
+}
+
+.a-color {
+  margin-right: 30px;
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.bto-drak {
+
+  display: inline-flex;
+  padding: 6px;
+  align-items: center;
+  gap: 10px;
+  border-radius: 15px;
+  background: #21B573;
+  color: white;
+}
+
+.nav-color {
+  color: #FFF;
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: bolder;
+  line-height: normal;
+}
+
+/* Learn With fun */
+
+
+/* .Learn-With-fun {
+  background-color: rgba(210, 166, 22, 0.724);
+} */
+
+.paragraph {
+  color: blue;
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  width: 405px;
+  height: 30px;
+  flex-shrink: 0;
+  margin-top: 15px;
+}
+
+.heading {
+  color: red;
+  font-family: Poppins;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 50px;
+
+}
+
+.h1-div {
+  width: 410px;
+  height: 140px;
+  flex-shrink: 0;
+  margin-bottom: 10px;
+  display: flex;
+  flex-direction: column;
+}
+
+h5>span {
+  color: red;
+  font-family: Poppins;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 50px;
+}
+
+.any-schedule {
+  color: #413960;
+  font-family: Poppins;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 50px;
+}
+
+.paraghrap-div {
+  width: 403px;
+  height: 85px;
+  flex-shrink: 0;
+  margin-bottom: 15px;
+}
+
+.paragraph-one{
+  color: lightslategrey;
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 36px;
+}
+.paragraph-two {
+  color: lightslategrey;
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 20px;
+}
+
+.button {
+  color: #FFF;
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  display: inline-flex;
+  padding: 12px 36px;
+  align-items: center;
+  gap: 10px;
+  border-radius: 33px;
+  background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+}
+
+/* all section */
+
+.div3 {
+  width: 230px;
+  height: 230px;
+  flex-shrink: 0;
+  margin-left: 25px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+  background: #FFF;
+  box-shadow: 0px 20px 40px 0px rgba(0, 0, 0, 0.10);
+}
+/* .col-md-4 img {
+  width: 66px;
+  height: 85px;
+  flex-shrink: 0;
+} */
+.img-cona {
+  width: 50px;
+  height: 70px;
+  flex-shrink: 0;
+}
+.topic {
+  color: tomato;
+  font-family: Poppins;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+.bootom {
+  color: #21B573;
+}
+.div-5 {
+  padding-right: 20px;
+}
+
+/* courses */
+#courses {
+  color: #FF136F;
+  font-family: Poppins;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  padding-top: 20px;
+}
+
+.courses {
+  text-align: center;
+}
+
+/* categories online courses */
+.c1 {
+  color: peru;
+}
+#c2 {
+  color: lightseagreen;
+}
+.card{
+  border: none;
+}
+.card-footer {
+  border: none;
+  background-color: white;
+} 
+.nice-col {
+  width: 370px;
+  height: 483px;
+  flex-shrink: 0;
+  border-radius: 18px;
+  background: #FFF;
+  box-shadow: 0px 10px 40px 0px rgba(0, 0, 0, 0.10);
+}
+.img-div {
+  display: flex;
+  justify-content: center;
+}
+.img-class {
+  width: 320px;
+  height: 224px;
+  flex-shrink: 0;
+  border-radius: 11px;
+  margin-top: 30px;
+}
+
+.card-body>he {
+  color: #413960;
+  font-family: Poppins;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+.card-body>h6 {
+  color: #585859;
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-bottom: 30px;
+  margin-top: -8px;
+}
+.card-body>span {
+  margin-left: -2px;
+}
+.calendar {
+  color: #ad05a5;
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+
+/* detalis */
+.img-detalis {
+  width: 120px;
+  height: 120px;
+  flex-shrink: 0;
+  border-radius: 120px;
+}
+.img-detalis {
+  margin-left: 20px;
+}
+.detaiis-text {
+  margin-left: 25px;
+  margin-top: 40px;
+}
+
+/* footer section */
+.end {
+  color: lightgrey;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 30px; /* 187.5% */
+}
+
